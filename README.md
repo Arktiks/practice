@@ -9,6 +9,7 @@ This is my first repo. I am learning web development.
 You can clone this repo by
 using the following command.
 
-'''bash
+```bash
 git clone
-'''
+```
+
